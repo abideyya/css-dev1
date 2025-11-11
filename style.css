@@ -4,7 +4,32 @@ h1
        text-align: center;
      }
   h4 
-    {
-  color: #B87C4C;
-  text-align: center;
+    {  text-align: center;
+        color:
+         #703B3B;
+         
     }
+       h2
+       {color:
+         #703B3B;
+         text-align: center;
+       }
+       div{
+        text-align: center;
+       }
+        h5
+    {
+        color: #703B3B;
+
+        text-align: center;
+    }
+    p {
+        style = "text-align: center;"
+        color: # 432323;
+    }
+    ul
+    { 
+        list-style-position:inside;
+    }
+      
+      
